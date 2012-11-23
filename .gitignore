@@ -1,3 +1,12 @@
+# Hyde files
+*.hyde_deps
+code/layout/deploy
+code/deploy
+env
+
+# Mac files
+*.DS_Store
+
 *.py[cod]
 
 # C extensions
