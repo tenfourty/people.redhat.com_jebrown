@@ -1,6 +1,8 @@
 # Hyde files
 *.hyde_deps
 env
+code/deploy
+layout/deploy
 
 # Mac files
 *.DS_Store
