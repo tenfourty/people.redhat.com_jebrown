@@ -1,7 +1,5 @@
 # Hyde files
 *.hyde_deps
-code/layout/deploy
-code/deploy
 env
 
 # Mac files
